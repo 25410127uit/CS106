@@ -3,9 +3,9 @@
 # ĐỒ ÁN MÔN HỌC MÁY HỌC
 
 ## Sinh viên
-- Lê Ngọc Thái - 25410130
-- Kiêm Hoàng Tuấn - 25410153
-- Bùi Tấn Thiện Tâm - 25410127
+- Lê Ngọc Thái       - 25410130
+- Kiêm Hoàng Tuấn    - 25410153
+- Bùi Tấn Thiện Tâm  - 25410127
 
 
 ## Mô tả
