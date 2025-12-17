@@ -2,7 +2,7 @@
 Đồ án môn học CS106-Trí tuệ nhân tạo
 # ĐỒ ÁN MÔN HỌC MÁY HỌC
 
-## Sinh viên
+## Group 13
 - Lê Ngọc Thái       - 25410130
 - Kiêm Hoàng Tuấn    - 25410153
 - Bùi Tấn Thiện Tâm  - 25410127
