@@ -11,7 +11,7 @@
 ## Mô tả
 Xây dựng hệ thống minh họa thuật toán cho 01 môn học
 ## Cách chạy
-```bash
-pip install -r requirements.txt
-python src/train.py
-“Chạy bằng Jupyter/Colab, không hỗ trợ terminal thuần.”
+“Chạy bằng Jupyter/Colab/Kaggle"
+
+
+
