@@ -1,4 +1,5 @@
 ipywidgets
+jupyterlab_widgets
 ipython
 matplotlib
 networkx
