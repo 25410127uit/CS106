@@ -1,4 +1,4 @@
-# cs106-project-group13
+# CS106-Project-Group13
 Đồ án môn học CS106-Trí tuệ nhân tạo
 
 ## Group 13
