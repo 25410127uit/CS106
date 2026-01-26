@@ -1,10 +1,10 @@
-# CS106-Project-Group13
-Đồ án môn học CS106-Trí tuệ nhân tạo
+# CS106-Project
+   CS106-Trí tuệ nhân tạo
 
 ## Group 13
-- Lê Ngọc Thái       - 25410130
-- Kiêm Hoàng Tuấn    - 25410153
-- Bùi Tấn Thiện Tâm  - 25410127
+- Lê Ngọc Thái         - 25410130
+- Kiêm Hoàng Tuấn      - 25410153
+- Bùi Tấn Thiện Tâm    - 25410127
 
 
 ## Mô tả
