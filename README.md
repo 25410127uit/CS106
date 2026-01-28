@@ -8,7 +8,7 @@
 
 
 ## Mô tả
-Xây dựng hệ thống minh họa thuật toán cho 01 môn học : " # Cấu trúc dữ liệu và giải thuật"
+Xây dựng hệ thống minh họa thuật toán cho 01 môn học : "Cấu trúc dữ liệu và giải thuật"
 ## Cách chạy
 “Chạy bằng Jupyter/Colab/Kaggle"
 
