@@ -14,12 +14,12 @@
 
 ## 📂 Cấu trúc thư mục
 CS106/
-├── src/ # Source code chính của project
-├── data/ # Dữ liệu đầu vào / dữ liệu mẫu
-├── assets/ # Hình ảnh, tài nguyên minh họa
-├── requirements.txt# Danh sách thư viện Python cần cài
-├── README.md # Mô tả project
-└── report/ # Báo cáo và slide
+    ├── src/ # Source code chính của project
+    ├── data/ # Dữ liệu đầu vào / dữ liệu mẫu
+    ├── assets/ # Hình ảnh, tài nguyên minh họa
+    ├── requirements.txt# Danh sách thư viện Python cần cài
+    ├── README.md # Mô tả project
+    └── report/ # Báo cáo và slide
 
 ---
 
