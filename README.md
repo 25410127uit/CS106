@@ -28,12 +28,12 @@ CS106/
 ### 1️⃣ Cài đặt môi trường
 - Cài **Python 3.x**
 - (Khuyến nghị) tạo virtual environment
-Cài thư viện:
-```bash
-pip install -r requirements.txt
+-  Cài thư viện:
+     ```bash
+     pip install -r requirements.txt
 
 
-###  2️⃣ Chạy chương trình
+### 2️⃣ Chạy chương trình
 
 Mở các file .ipynb bằng Jupyter Notebook hoặc Google Colab
 Hoặc chạy các file Python/C++ trong thư mục src/ tùy theo từng phần của project
