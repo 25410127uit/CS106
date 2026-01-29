@@ -7,10 +7,8 @@
 
 ## 🛠 Công nghệ sử dụng
 - **Python**
-- **C++**
-- **SQL**
-- Jupyter Notebook
-- Các thư viện Python (xem `requirements.txt`)
+- Jupyter Notebook/Colab/Kaggle
+- Các thư viện Python
 
 ---
 
